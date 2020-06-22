@@ -30,7 +30,7 @@ Editors can do everything consultants can do, plus they can directly edit the te
 
 Session hosts manage the team’s github repository, and run validation scripts to check the team’s editorial work. Requirements: in addition to the requirements for editors, session hosts need:
 
-- a working account on github. **Test**: you know your github password and can actually login!
-- bash shell and git. **Test**: if you open a bash shell, type which git, you see some result.
-- a working account on dockerhub. **Test**: you know your dockerhub password and can actually login!
-- either Docker Desktop (OS X users) or Docker Toolbox (Windows users). **Test**: open a bash shell (OS X users) or a Docker shell (Windows users) and type `docker run hello-world`. You should see docker download a Docker image and run a Docker container that (eventually) writes some output to your terminal.
+- a working [account on github](https://github.com/). **Test**: you know your github password and can actually login!
+- a bash shell and git. For Windows 10, see [how to install both at once](http://www.homermultitext.org/editors/technologies/install-bash/). For Mac OS X, you already have a bash shell (`Terminal.app` in the Utilities folder inside your Applications folder).  See [how to install `git` on OS X](https://www.atlassian.com/git/tutorials/install-git).  **Test**: you can open a bash shell, type `which git`, and see some result.
+- a working [account on dockerhub](https://hub.docker.com/). **Test**: you know your dockerhub password and can actually login!
+- either [Docker Desktop (OS X users)](https://docs.docker.com/docker-for-mac/install/) or [Docker Toolbox (Windows users)](https://docs.docker.com/toolbox/toolbox_install_windows/). **Test**: open a bash shell (OS X users) or a Docker shell (Windows users) and type `docker run hello-world`. You should see docker download a Docker image and run a Docker container that (eventually) writes some output to your terminal.
