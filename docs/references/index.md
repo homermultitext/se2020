@@ -24,8 +24,12 @@ Finding other URNs:
 
 ### Indexing DSE records
 
-
 ### Indexing dingbats and hyphens
+
+
+
+### How to validate
+
 
 ## Editions of scholia
 
