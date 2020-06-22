@@ -5,6 +5,6 @@ title: "Home page"
 
 ## HMT project, Summer Experience 2020
 
-- registration (including tech checklist)
-- references for participants
+- registration (including [tech checklist](./techchecklist/))
+- [references for participants](./references/)
 - team assignments
