@@ -7,7 +7,7 @@ title: "Home page"
 
 Please complete ASAP:
 
-- registration complete this [tech checklist](./techchecklist/), and register here
+- registration: work through this [tech checklist](./techchecklist/), and register for the workshop [here](https://docs.google.com/forms/d/1YQOoeM9qK1hMyyjrZvdPS_Bbucr_f8642jVvRcXO-NE/viewform?edit_requested=true&fbzx=6256306799587415890)
 
 Coming soon:
 
