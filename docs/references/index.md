@@ -18,11 +18,17 @@ Finding other URNs:
 - [HMT URN search](https://interwing.nl/hmt/urn/) (from Leiden team member Mees Gelein)
 - request URNs for new personal names, place names, etc using forms on the [`hmt-authlists` repository](https://github.com/homermultitext/hmt-authlists)
 
+## HMT editors' guide
+
+### Summary of XML usage
+
+### Indexing DSE records
+
+
+### Indexing dingbats and hyphens
+
 ## Editions of scholia
 
 - Erbse
 - Dindorf
 - Maas
-
-
-## HMT editors' guide
