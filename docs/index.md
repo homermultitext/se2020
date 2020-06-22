@@ -7,4 +7,4 @@ title: "Home page"
 
 - registration (including [tech checklist](./techchecklist/))
 - [references for participants](./references/)
-- team assignments
+- [team assignments](./teams/)
