@@ -4,7 +4,7 @@ title: "Technical checklist"
 ---
 
 
-We'll use three categories of software.
+We'll use three categories of software.  You can participate at any level your software allows.  Please try the tests for each level, and complete the online registration form.
 
 
 ## 1. Consultant
@@ -31,6 +31,6 @@ Editors can do everything consultants can do, plus they can directly edit the te
 Session hosts manage the team’s github repository, and run validation scripts to check the team’s editorial work. Requirements: in addition to the requirements for editors, session hosts need:
 
 - a working account on github. **Test**: you know your github password and can actually login!
-- bash shell and git. Test: if you open a bash shell, type which git, you see some result.
+- bash shell and git. **Test**: if you open a bash shell, type which git, you see some result.
 - a working account on dockerhub. **Test**: you know your dockerhub password and can actually login!
 - either Docker Desktop (OS X users) or Docker Toolbox (Windows users). **Test**: open a bash shell (OS X users) or a Docker shell (Windows users) and type `docker run hello-world`. You should see docker download a Docker image and run a Docker container that (eventually) writes some output to your terminal.
