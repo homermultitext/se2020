@@ -3,14 +3,18 @@ layout: page
 title: "References for participants"
 ---
 
-Homer Multitext project [home page](http://www.homermultitext.org/)
-
-
 ## URNs
 
 - *Iliad* text
+    - Venetus B: `urn:cts:greekLit:tlg0012.tlg001.msB:`
+    - Upsilon 1.1: `urn:cts:greekLit:tlg0012.tlg001.e3:`
 - scholia text
+    - Venetus B: `urn:cts:greekLit:tlg5026.msB.hmt:`
+    - Upsilon 1.1: `urn:cts:greekLit:tlg5026.e3.hmt:`
 - manuscript pages
+    - Venetus B: `urn:cite2:hmt:msB.v1:`
+    - Upsilon 1.1: `urn:cite2:hmt:e3pages.v1:`
+
 
 
 Finding other URNs:
