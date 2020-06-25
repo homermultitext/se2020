@@ -78,7 +78,7 @@ Named entities with `@n` attribute with URN value:
 
 ### Indexing dingbats and hyphens
 
-
+See these [instructions for recording non-textual features](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features).
 
 ### How to validate
 
