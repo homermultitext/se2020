@@ -9,3 +9,8 @@ title: "Home page"
 
 - [team assignments](./teams/)
 - [references for participants](./references/)
+
+
+This site: <https://homermultitext.github.io/se2020/>
+
+HMT home page: <http://www.homermultitext.org>
