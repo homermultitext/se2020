@@ -3,18 +3,40 @@ title: Teams
 layout: page
 ---
 
-**Alpha**:  Brian Clark;  Luke Giuntoli; Rose Kaczmarek; Iris van Kuijk: Sabria Bowman
+## Alpha  
+
+- Sabria Bowman
+- Brian Clark
+- Luke Giuntoli
+- Rose Kaczmarek
+- Iris van Kuijk
 
 Assigned page(s): Venetus B 318v ~ Upsilon 1.1: 312v
 
-**Beta**: Stephanie Lindeborg; Anne-Catherine Schaaf; Sophia Sarro; Meike Rozenbrand
+## Beta
+
+- Stephanie Lindeborg
+- Meike Rozenbrand
+- Sophia Sarro
+- Anne-Catherine Schaaf
 
 Assigned page(s): Venetus B 319v ~ Upsilon 1.1: 311v
 
-**Gamma**: Chris Blackwell; Natalie Dimattia; Stephen Pittman; Kathleen Arbogast
+## Gamma
+
+- Kathleen Arbogast
+- Chris Blackwell
+- Natalie Dimattia
+- Stephen Pittman
 
 Assigned page(s): Venetus B 321v ~ Upsilon 1.1: 313v
 
-**Delta**: Eunice Kim;  Augusta Holyfield; Eric Boot; Owen Coats; Ardi Saunders
+## Delta
+
+- Eric Boot
+- Owen Coats
+- Augusta Holyfield
+- Eunice Kim
+- Ardi Saunders
 
 Assigned page(s): Venetus B 320v ~ Upsilon 1.1: 312v
