@@ -3,7 +3,7 @@ layout: page
 title: "References for participants"
 ---
 
-## URNs
+## Citation with URNs
 
 - *Iliad* text
     - Venetus B: `urn:cts:greekLit:tlg0012.tlg001.msB:`
@@ -16,13 +16,24 @@ title: "References for participants"
     - Upsilon 1.1: `urn:cite2:hmt:e3pages.v1:`
 
 
-
 Finding other URNs:
 
 - [HMT URN search](https://interwing.nl/hmt/urn/) (from Leiden team member Mees Gelein)
 - request URNs for new personal names, place names, etc using forms on the [`hmt-authlists` repository](https://github.com/homermultitext/hmt-authlists)
 
-## HMT editors' guide
+
+
+### Indexing DSE records
+
+
+
+### How to validate
+
+See these [instructions for validating content in your repository](https://github.com/neelsmith/transmission-evolution/wiki/Validating).
+
+
+
+## XML editing
 
 ### Concise summary of XML usage
 
@@ -73,17 +84,12 @@ Named entities with `@n` attribute with URN value:
 
 
 
-
-### Indexing DSE records
-
 ### Indexing dingbats and hyphens
 
 See these [instructions for recording non-textual features](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features).
 
-### How to validate
 
-
-## Editions of scholia
+## Previous editions of scholia
 
 - Erbse
 - Dindorf
