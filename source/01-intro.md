@@ -15,7 +15,7 @@ title: Today
 
 ### Bonus
 
-- At least one or two members of your team know what a `CtsUrn` is.  Use [this refernence page](https://homermultitext.github.io/se2020/references/) to find the URN for your specific version of the *Iliad*, and express the first line of *Iliad* on your page as a CtsUrn.
+- At least one or two members of your team know what a `CtsUrn` is.  Use [this reference page](https://homermultitext.github.io/se2020/references/) to find the URN for your specific version of the *Iliad*, and express the first line of *Iliad* on your page as a CtsUrn.
 
 ## Return to plenary session
 
