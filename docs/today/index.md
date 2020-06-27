@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Today
+title: "*Today"
 ---
 
 Each day of our seminar, you'll find a brief overview of the day's activity on this page.
