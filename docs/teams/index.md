@@ -11,6 +11,8 @@ layout: page
 - Rose Kaczmarek
 - Iris van Kuijk
 
+Github repository:  <https://github.com/hmteditors/se2020-alpha>
+
 Assigned page(s): Venetus B 318v ~ Upsilon 1.1: 312v
 
 ## Beta
@@ -20,7 +22,10 @@ Assigned page(s): Venetus B 318v ~ Upsilon 1.1: 312v
 - Sophia Sarro
 - Anne-Catherine Schaaf
 
+Github repository:  <https://github.com/hmteditors/se2020-beta>
+
 Assigned page(s): Venetus B 319v ~ Upsilon 1.1: 311v
+
 
 ## Gamma
 
@@ -28,6 +33,8 @@ Assigned page(s): Venetus B 319v ~ Upsilon 1.1: 311v
 - Chris Blackwell
 - Natalie Dimattia
 - Stephen Pittman
+
+Github repository:  <https://github.com/hmteditors/se2020-gamma>
 
 Assigned page(s): Venetus B 321v ~ Upsilon 1.1: 313v
 
@@ -38,5 +45,8 @@ Assigned page(s): Venetus B 321v ~ Upsilon 1.1: 313v
 - Augusta Holyfield
 - Eunice Kim
 - Ardi Saunders
+
+Github repository:  <https://github.com/hmteditors/se2020-delta>
+
 
 Assigned page(s): Venetus B 320v ~ Upsilon 1.1: 312v
