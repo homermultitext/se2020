@@ -13,7 +13,8 @@ layout: page
 
 Github repository:  <https://github.com/hmteditors/se2020-alpha>
 
-Assigned page(s): [Venetus B 318v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_318v_319r) ~ Upsilon 1.1: 312v
+Assigned page(s): [Upsilon 1.1: 310v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_310v_311r)
+ ~ [Venetus B 318v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_318v_319r)
 
 ## Beta
 
@@ -24,7 +25,7 @@ Assigned page(s): [Venetus B 318v](http://www.homermultitext.org/ict2/?urn=urn:c
 
 Github repository:  <https://github.com/hmteditors/se2020-beta>
 
-Assigned page(s): [Venetus B 319v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_319v_320r) ~ Upsilon 1.1: 311v
+Assigned page(s):  [Upsilon 1.1: 311v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_311v_312r) ~ [Venetus B 319v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_319v_320r)
 
 
 ## Gamma
@@ -36,7 +37,7 @@ Assigned page(s): [Venetus B 319v](http://www.homermultitext.org/ict2/?urn=urn:c
 
 Github repository:  <https://github.com/hmteditors/se2020-gamma>
 
-Assigned page(s): Venetus B 321v ~ Upsilon 1.1: 313v
+Assigned page(s): Upsilon 1.1: 313v ~ Venetus B 321v
 
 ## Delta
 
@@ -49,4 +50,4 @@ Assigned page(s): Venetus B 321v ~ Upsilon 1.1: 313v
 Github repository:  <https://github.com/hmteditors/se2020-delta>
 
 
-Assigned page(s): Venetus B 320v ~ Upsilon 1.1: 312v
+Assigned page(s):  Upsilon 1.1: 312v ~ Venetus B 320v
