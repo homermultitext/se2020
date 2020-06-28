@@ -3,6 +3,9 @@ layout: page
 title: "Home page"
 ---
 
+
+What we're doing [today](./today/).
+
 ## HMT project, Summer Experience 2020
 
 
