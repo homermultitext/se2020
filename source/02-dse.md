@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Today
+title: "*Today"
 ---
 
 
