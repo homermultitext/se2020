@@ -26,6 +26,9 @@ Finding other URNs:
 ### Indexing DSE records
 
 
+See this [overview](https://github.com/neelsmith/transmission-evolution/wiki/DSE-indexing).
+
+
 
 ### How to validate
 
