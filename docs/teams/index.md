@@ -13,7 +13,7 @@ layout: page
 
 Github repository:  <https://github.com/hmteditors/se2020-alpha>
 
-Assigned page(s): Venetus B 318v ~ Upsilon 1.1: 312v
+Assigned page(s): [Venetus B 318v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_318v_319r) ~ Upsilon 1.1: 312v
 
 ## Beta
 
@@ -24,7 +24,7 @@ Assigned page(s): Venetus B 318v ~ Upsilon 1.1: 312v
 
 Github repository:  <https://github.com/hmteditors/se2020-beta>
 
-Assigned page(s): Venetus B 319v ~ Upsilon 1.1: 311v
+Assigned page(s): [Venetus B 319v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_319v_320r) ~ Upsilon 1.1: 311v
 
 
 ## Gamma
