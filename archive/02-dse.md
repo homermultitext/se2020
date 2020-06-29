@@ -8,6 +8,7 @@ title: "*Today"
 
 **Tuesday, June 30**:  an explicit model for digital scholarly editions
 
+
 ## Major concepts
 
 - a *digital scholarly edition* associates

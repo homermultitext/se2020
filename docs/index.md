@@ -6,6 +6,9 @@ title: "Home page"
 
 What we're doing [today](./today/).
 
+What we've already done:  [archived in this web site's github repository](https://github.com/homermultitext/se2020/tree/master/archive).
+
+
 ## HMT project, Summer Experience 2020
 
 
