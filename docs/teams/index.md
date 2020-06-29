@@ -37,7 +37,7 @@ Assigned page(s):  [Upsilon 1.1: 311v](http://www.homermultitext.org/ict2/?urn=u
 
 Github repository:  <https://github.com/hmteditors/se2020-gamma>
 
-Assigned page(s): Upsilon 1.1: 313v ~ Venetus B 321v
+Assigned page(s): [Upsilon 1.1: 313v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_313v_314r) ~ [Venetus B 321v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_321v_322r)
 
 ## Delta
 
@@ -50,4 +50,4 @@ Assigned page(s): Upsilon 1.1: 313v ~ Venetus B 321v
 Github repository:  <https://github.com/hmteditors/se2020-delta>
 
 
-Assigned page(s):  Upsilon 1.1: 312v ~ Venetus B 320v
+Assigned page(s):  [Upsilon 1.1: 312v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_312v_313r) ~ [Venetus B 320v](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_320v_321r)
