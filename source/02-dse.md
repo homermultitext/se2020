@@ -8,6 +8,14 @@ title: "*Today"
 
 **Tuesday, June 30**:  an explicit model for digital scholarly editions
 
+## Major concepts
+
+- a *digital scholarly edition* associates
+    - a citable passage of text
+    - a citable page
+    - a citable (region of an) image
+- we can express this with 3 URNs
+- we can record this in a *delimited-text file*
 
 
 ## Assignment for break-out sessions
