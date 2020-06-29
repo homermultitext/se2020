@@ -94,6 +94,5 @@ See these [instructions for recording non-textual features](https://github.com/n
 
 ## Previous editions of scholia
 
-- Erbse
-- Dindorf
-- Maas
+- Erbse: [scholia to *Iliad* 23](https://neelsmith.github.io/transmission-evolution/iliad23-scholia-wh/iliad23.html)
+- Dindorf:  [vol. 2 of his edition of Venetus B scholia](http://www.homermultitext.org/pd-pdfs/Dindorf-v4.pdf) (pdf)
