@@ -6,6 +6,10 @@ title: "*Today"
 
 **Monday, June 29**:  meet your team (and your manuscript)
 
+## Major concepts
+
+- canonical citation
+
 
 ## Assignment for break-out sessions
 
