@@ -41,11 +41,6 @@ See these [instructions for validating content in your repository](https://githu
 
 ### Summary of character set usage
 
-
-## Legal characters in HMT editions
-
-The Greek text of your edition may use the following characters.
-
 - alphabetic characters: alphabetic α-ω in upper or lower case. They may be combined with accents and/or breathings in the Unicode Greek range.  
 - punctuation:
     -   period = `.`
