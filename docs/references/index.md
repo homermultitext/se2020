@@ -3,6 +3,10 @@ layout: page
 title: "References for participants"
 ---
 
+## Reading *Iliad* 23
+
+"Low-friction reading pages" for [*Iliad* 23](https://furman-university-editions.github.io/Readers/ )
+
 ## Citation with URNs
 
 - *Iliad* text
