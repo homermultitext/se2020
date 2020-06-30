@@ -38,6 +38,29 @@ See these [instructions for validating content in your repository](https://githu
 
 ## XML editing
 
+
+### Summary of character set usage
+
+
+## Legal characters in HMT editions
+
+The Greek text of your edition may use the following characters.
+
+- alphabetic characters: alphabetic α-ω in upper or lower case. They may be combined with accents and/or breathings in the Unicode Greek range.  
+- punctuation:
+    -   period = `.`
+    -   comma = `,`
+    -   interrogation mark = `;`
+    -   high stop = `~`
+    -   "end-of-scholion/unit" marker:  `⁑` (Unicode U+2015)
+- quantity:
+    -   macron = `_` (underscore)
+    -   breve = `^`
+- "floating" characters:  our manuscripts sometimes create combinations of accents, breathings and other marks that we do not encounter in modern typeset Greek, and that cannot be encoded with Unicode characters.  In those cases where you may need to add an additional diacritic character, use the following encodings:
+    -   "floating" acute accent =  `/`
+    -   "floating" grave accent =  `\`
+    -   "floating" diaeresis =  `+`
+
 ### Concise summary of XML usage
 
 Our XML markup falls in 4 tiers:
