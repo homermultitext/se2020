@@ -42,7 +42,7 @@ Then:
 3. edit the text of the first scholon (and *only* the first scholion!)
 4. validate and verify your work so far.  
 
-If everything goes well, your updated DSE reports should now show that you have one corretly indexed scholion, in addition to any *Iliad* lines you edited yesterday.
+If everything goes well, your updated DSE reports should now show that you have one correctly indexed scholion, in addition to any *Iliad* lines you edited yesterday.
 
 Your team should spend the last 5-10 minutes preparing to present your work to the plenary group on Friday, when we'll look at *scholia* together.  To present your *scholion*, be prepared to tell us:
 
