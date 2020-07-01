@@ -118,3 +118,9 @@ See these [instructions for recording non-textual features](https://github.com/n
 
 - Erbse: [scholia to *Iliad* 23](https://neelsmith.github.io/transmission-evolution/iliad23-scholia-wh/iliad23.html)
 - Dindorf:  [vol. 2 of his edition of Venetus B scholia](http://www.homermultitext.org/pd-pdfs/Dindorf-v4.pdf) (pdf)
+
+
+## How to.. videos
+
+- [using `bash` shell](https://www.youtube.com/watch?v=lSfNQIeb0uo&t=3s)
+- [using `git`](https://www.youtube.com/watch?v=RQXE8E0U9a8)

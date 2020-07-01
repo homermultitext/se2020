@@ -24,6 +24,10 @@ Before you begin:
 - organize your team the same way you did to edit *Iliad* text, but in addition at least one member of your team should have these pages open for easy reference:
     - instructions for [how to index a scholion marker](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features)
     - summary of HMT project's TEI markup on our [reference page](https://homermultitext.github.io/se2020/references/)
+    - edition of *scholia* to (very similar!) Venetus B manuscript by [Dindorf](http://www.homermultitext.org/pd-pdfs/Dindorf-v4.pdf) (pdf)
+    - main text of [critical reconstruction of *scholia* to *Iliad* 23 by Erbse](https://neelsmith.github.io/transmission-evolution/iliad23-scholia-wh/iliad23.html) (does not include Erbse's critical apparatus where he sometimes indicates differences between his reconstruction and the text of a specific manuscript)
+
+
 
 As you edit your first scholion, feel free to message for consultation with people in other breakout teams.
 
@@ -46,6 +50,7 @@ Your team should spend the last 5-10 minutes preparing to present your work to t
 - what line of the *Iliad* it comments on, and summarize briefly what is happening at that point in the *Iliad*
 - if your *scholion* has a *lemma*
 - if your *scholion* has a corresponding marker in the *Iliad* text, and if so what word or phrase it is attached to
+- does your diplomatic reading of the text differ from the reconstruction in either Dindorf or Erbse?
 - anything you were able to work out about the syntax and meaning of the scholion
 
 
