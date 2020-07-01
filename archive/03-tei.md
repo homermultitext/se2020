@@ -15,8 +15,10 @@ title: "*Today"
 - HMT uses markup to disambiguate *named entities*
 
 
-Some technical notes:
 
+Technical notes:
+
+- XML syntax: *elements*, *attributes*, *text content*
 - HMT uses a subset of the Text Encoding Initiative (TEI)
 - HMT organizes markup in 4 tiers (see [summary on reference page](https://homermultitext.github.io/se2020/references/))
 
