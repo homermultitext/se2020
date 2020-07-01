@@ -1,52 +1,61 @@
 ---
 layout: page
-title: "*Today"
+title: Today
 ---
 
-
-**Wednesday, July 1**: editing the *Iliad* with TEI-compliant XML.
+**Thursday, July 2**: editing *scholia* with TEI-compliant XML.
 
 
 ##  Major concepts
 
-- markup: because writing systems are not transcriptions of speech
-- *semantic* markup, not *presentational* markup
-- HMT markup encodes the *canonical citation*
-- HMT uses markup to disambiguate *named entities*
-
-
-
-Technical notes:
-
-- XML syntax: *elements*, *attributes*, *text content*
-- HMT uses a subset of the Text Encoding Initiative (TEI)
-- HMT organizes markup in 4 tiers (see [summary on reference page](https://homermultitext.github.io/se2020/references/))
+- recording non-textual features in a manuscript
+- using URNs to index related content
 
 
 ## Break-out session
 
 
+
 (The session host will always begin by pulling to sync with the most recent work in your repository.)
 
+Before you begin:
 
-### Organizing your team
+- review where you are in the *Iliad*. What is happening in the first lines of your page?
+- organize your team the same way you did to edit *Iliad* text, but in addition at least one member of your team should have these pages open for easy reference:
+    - instructions for [how to index a scholion marker](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features)
+    - summary of HMT project's TEI markup on our [reference page](https://homermultitext.github.io/se2020/references/)
+    - edition of *scholia* to (very similar!) Venetus B manuscript by [Dindorf](http://www.homermultitext.org/pd-pdfs/Dindorf-v4.pdf) (pdf)
+    - main text of [critical reconstruction of *scholia* to *Iliad* 23 by Erbse](https://neelsmith.github.io/transmission-evolution/iliad23-scholia-wh/iliad23.html) (does not include Erbse's critical apparatus where he sometimes indicates differences between his reconstruction and the text of a specific manuscript)
 
-- the session host will open the XML text of the *Iliad* in Atom, and share a teletype key with everyone in the group in the Zoom chat stream
-- everyone with Atom and teletype installed can use the key to view and help edit the XML document
-- one team member can use Zoom to share a window with the image of your page
-- one member of your team can take the lead in looking up URNs for any *named entities* you need to identify
 
-You are all strongly encouraged to read each line aloud in mellifluous dactylic hexameter.
 
-## Assignment
+As you edit your first scholion, feel free to message for consultation with people in other breakout teams.
 
-Edit one line of the *Iliad*.  Validate and verify your text.  In addition to checking the DSE validation that you looked at yesterday, you should evalute the validation and verification results for tests of character set usage.
 
-After you validate and verify one line, continue editing the *Iliad* text on your page.  Keep your DSE records up to date with your XML edition.
+
+
+
+Then:
+
+1. create a DSE record for the first *scholion* on your page (in your repository's `dse` directory).
+2. index the marker for your *scholion* (in the `collections-data` directory)
+3. edit the text of the first scholon (and *only* the first scholion!)
+4. validate and verify your work so far.  
+
+If everything goes well, your updated DSE reports should now show that you have one corretly indexed scholion, in addition to any *Iliad* lines you edited yesterday.
+
+Your team should spend the last 5-10 minutes preparing to present your work to the plenary group on Friday, when we'll look at *scholia* together.  To present your *scholion*, be prepared to tell us:
+
+- what page of the manuscript you are reading
+- what line of the *Iliad* it comments on, and summarize briefly what is happening at that point in the *Iliad*
+- if your *scholion* has a *lemma*
+- if your *scholion* has a corresponding marker in the *Iliad* text, and if so what word or phrase it is attached to
+- does your diplomatic reading of the text differ from the reconstruction in either Dindorf or Erbse?
+- anything you were able to work out about the syntax and meaning of the scholion
 
 
 ## Return to plenary session
 
-One member of your team (*not* a faculty member, or Holy Cross summer research student) will be prepared to summarize what your team did. Were there any parts of the process that were especially difficult in a Zoom breakout room? Do you have any tips or tricks your team found helpful?
+Your team should be prepared to summarize your work today. What was the most challenging part of editing your scholion?
 
-Were there particular problems reading the paleography of the manuscript?  Any questions or tips about reading the *Iliad* text that you can share with others?
+On Friday, your team will present your scholion to the whole group in more detail.
