@@ -3,6 +3,10 @@ layout: page
 title: Today
 ---
 
+
+**Friday, July 3**: reading *scholia*. 
+
+
 ## Major concepts
 
 - *scholia* are hard
