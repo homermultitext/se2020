@@ -3,59 +3,50 @@ layout: page
 title: Today
 ---
 
-**Thursday, July 2**: editing *scholia* with TEI-compliant XML.
+
+**Friday, July 3**: reading *scholia*.
 
 
-##  Major concepts
+## Major concepts
 
-- recording non-textual features in a manuscript
-- using URNs to index related content
+- *scholia* are hard
 
+## Plenary session
 
-## Break-out session
+We'll spend more time today in our plenary session, as we collectively look at a scholion from each team.
 
-
-
-(The session host will always begin by pulling to sync with the most recent work in your repository.)
-
-Before you begin:
-
-- review where you are in the *Iliad*. What is happening in the first lines of your page?
-- organize your team the same way you did to edit *Iliad* text, but in addition at least one member of your team should have these pages open for easy reference:
-    - instructions for [how to index a scholion marker](https://github.com/neelsmith/transmission-evolution/wiki/Recording-non-textual-features)
-    - summary of HMT project's TEI markup on our [reference page](https://homermultitext.github.io/se2020/references/)
-    - edition of *scholia* to (very similar!) Venetus B manuscript by [Dindorf](http://www.homermultitext.org/pd-pdfs/Dindorf-v4.pdf) (pdf)
-    - main text of [critical reconstruction of *scholia* to *Iliad* 23 by Erbse](https://neelsmith.github.io/transmission-evolution/iliad23-scholia-wh/iliad23.html) (does not include Erbse's critical apparatus where he sometimes indicates differences between his reconstruction and the text of a specific manuscript)
-
-
-
-As you edit your first scholion, feel free to message for consultation with people in other breakout teams.
-
-
-
-
-
-Then:
-
-1. create a DSE record for the first *scholion* on your page (in your repository's `dse` directory).
-2. index the marker for your *scholion* (in the `collections-data` directory)
-3. edit the text of the first scholon (and *only* the first scholion!)
-4. validate and verify your work so far.  
-
-If everything goes well, your updated DSE reports should now show that you have one correctly indexed scholion, in addition to any *Iliad* lines you edited yesterday.
-
-Your team should spend the last 5-10 minutes preparing to present your work to the plenary group on Friday, when we'll look at *scholia* together.  To present your *scholion*, be prepared to tell us:
+To orient the whole group, each team should be prepared to share with us in the chat stream:
 
 - what page of the manuscript you are reading
-- what line of the *Iliad* it comments on, and summarize briefly what is happening at that point in the *Iliad*
-- if your *scholion* has a *lemma*
-- if your *scholion* has a corresponding marker in the *Iliad* text, and if so what word or phrase it is attached to
-- does your diplomatic reading of the text differ from the reconstruction in either Dindorf or Erbse?
-- anything you were able to work out about the syntax and meaning of the scholion
+- what line of the Iliad your scholion comments on
+
+Your team should then:
+
+- share a screen with the scholion
+- summarize briefly what is happening at that point in the *Iliad*
+- tell us if your scholion has a corresponding marker in the Iliad text, and if so what word or phrase it is attached to
+- tell us whether your reaing differed from Erbse or Dindorf
+- summarize anything your group was able to figure out about the syntax and sense of the *scholion*
 
 
-## Return to plenary session
 
-Your team should be prepared to summarize your work today. What was the most challenging part of editing your scholion?
+## Break-out sessions
 
-On Friday, your team will present your scholion to the whole group in more detail.
+We will reserve 15 minutes for teams to return to break-out rooms to validate and verify their work, and tidy up any work they wish to continue.
+
+*As always*, before ending your team's session, you should:
+
+1. ensure that you can build a citable library from repository.
+2. commit and push any changes you have made
+
+
+## Looking ahead
+
+Beginning Monday, your teams will work steadily through the four tasks of editing your page:
+
+1. index *Iliad* lines
+2. edit *Iliad* lines
+3. index *scholia*
+4. edit *scholia*
+
+You may opt to complete tasks successively (first indexing all *Iliad* lines, next editing all *Iliad* lines, etc.), or work on them in parallel. For example, you might index and edit a few *Iliad* lines, then index and edit all *scholia* commenting on those lines; or index all *Iliad* lines and *scholia*, then edit  one section of the page.  What do you think would be the most effective use of your team's work time in break-out rooms next week?
