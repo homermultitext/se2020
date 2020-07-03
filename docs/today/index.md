@@ -9,6 +9,9 @@ title: Today
 
 ## Major concepts
 
+- to end a work session:
+    1. make sure you can build a citable library from your repository
+    2. push all your work to github
 - *scholia* are hard
 
 ## Plenary session
