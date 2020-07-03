@@ -4,7 +4,7 @@ title: Today
 ---
 
 
-**Friday, July 3**: reading *scholia*. 
+**Friday, July 3**: reading *scholia*.
 
 
 ## Major concepts
@@ -24,7 +24,6 @@ Your team should then:
 
 - share a screen with the scholion
 - summarize briefly what is happening at that point in the *Iliad*
-- tell us if your scholion has a lemma
 - tell us if your scholion has a corresponding marker in the Iliad text, and if so what word or phrase it is attached to
 - tell us whether your reaing differed from Erbse or Dindorf
 - summarize anything your group was able to figure out about the syntax and sense of the *scholion*
@@ -33,7 +32,15 @@ Your team should then:
 
 ## Break-out sessions
 
-Depending on how long we take to read *scholia* together, we may or may not have time to give teams 15-20 minutes to return to their page and tidy up any work they wish to continue.
+We will reserve 15 minutes for teams to return to break-out rooms to validate and verify their work, and tidy up any work they wish to continue.
+
+*As always*, before ending your team's session, you should:
+
+1. ensure that you can build a citable library from repository.
+2. commit and push any changes you have made
+
+
+## Looking ahead
 
 Beginning Monday, your teams will work steadily through the four tasks of editing your page:
 
