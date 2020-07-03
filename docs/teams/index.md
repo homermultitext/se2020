@@ -5,7 +5,6 @@ layout: page
 
 ## Alpha  
 
-- Sabria Bowman
 - Brian Clark
 - Luke Giuntoli
 - Rose Kaczmarek
@@ -18,6 +17,7 @@ Assigned page(s): [Upsilon 1.1: 310v](http://www.homermultitext.org/ict2/?urn=ur
 
 ## Beta
 
+- Leonie Henkes
 - Stephanie Lindeborg
 - Meike Rozenbrand
 - Sophia Sarro
