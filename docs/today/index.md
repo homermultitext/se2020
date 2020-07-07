@@ -3,38 +3,34 @@ layout: page
 title: Today
 ---
 
+---
+layout: page
+title: Today
+---
 
 
-**Monday, July 6**: organizing work teams.
+
+**Tuesday, July 7**: validating and verifying your work.
 
 
-## Major questions
+## Major ideas
 
-- validation and verification empowers teams to experiment with processes:  as long as your work is in teams and your work is validated and verified, you're free to find the best work flow for your group
-
+- "see one, do one, teach one" (traditional method of teaching surgery)
 
 ## Break-out session
 
-A new session host should begin your work today by pulling on your team's github respository  (or if it's her first time working with the repository, by cloning it).  Share your screen in Zoom so that your teammates can watch, learn or help. Then, she should start a docker session.
+Today, we won't return to the full group.
 
-Throughout this week, your teams will continue with the same tasks of editing your page you worked through last week:
+Our goals for break-out sessions are:
 
-1. index *Iliad* lines
-2. edit *Iliad* lines
-3. index *scholia*
-4. edit *scholia* (including indexing scholion markers)
-
-You may opt to complete tasks successively (first indexing all *Iliad* lines, next editing all *Iliad* lines, etc.), or work on them in parallel. For example, you might index and edit a few *Iliad* lines, then index and edit all *scholia* commenting on those lines; or index all *Iliad* lines and *scholia*, then edit  one section of the page.
-
-Be sure that you allow enough time to validate and verify your work at the end of the break out session.
-
-Before returning to the plenary group, you should:
-
-1. be sure you can still build a citable library from your repository, and then
-2. push your work to github
+- someone who is *not* the HMT faculty member who hosted last week try to host the session
+- continue to work on your assigned page, in whatever work flow your team chooses.  Consider whether ideas you heard from other teams yesterday might be helpful to your team.
+- be sure to allow time to validate and push before quitting
 
 
+Each team should identify *one* observation you want to share with the whole group tomorrow (Wednesday). This could be:
 
-## Return to plenary session
 
-Share with the entire group how your team decided to approach your next editing work.  Did it work as you expected? Are there things you want to change tomorrow?
+- something interesting you saw in your manuscript
+- something you figured out about how your team could work more effectively
+- something you don't understand or want other HMT people to look at
