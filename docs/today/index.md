@@ -3,11 +3,6 @@ layout: page
 title: Today
 ---
 
----
-layout: page
-title: Today
----
-
 
 
 **Tuesday, July 7**: validating and verifying your work.
