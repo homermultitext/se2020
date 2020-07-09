@@ -6,19 +6,25 @@ title: Today
 
 
 
-**Wednesday, July 8**: Q/A.
+**Thursday, July 9**: Some things people are doing with your editions
+
+
 
 
 ## Major ideas
 
-- standards for validation+verification give teams freedom to define their own work practices
+- traditional ideas of *vertical* and *horizontal variation* reflect multiformity in tradition.  Can we explore those concepts more systematically with digital editions?
+- *topic modelling* measures *recurring patterns of co-occurring terms*
+- *scholia* are not a fixed genre of mechanically copied texts.  Can we use topic  modelling to trace transmission of texts that are reused and modified?
+
 
 ## Break-out session
 
-Like yesterday, we won't reassemble as a full group.  When your group finishes for the day, however, please save a couple of minutes to return to the main Zoom session, and summarize what your team did.
+Like yesterday, we won't reassemble as a full group.
 
-Our goals for today's break-out sessions are:
+Continue to work on your assigned page, in whatever work flow your team chooses.  If your team has a short page and you finish your work, look at the corresponding page of the Venetus B manuscript.
 
-- someone who is *not* the HMT faculty member who hosted last week try to host the session
-- continue to work on your assigned page, in whatever work flow your team chooses.
-- be sure to allow time to validate and push before quitting
+
+## Preparing for tomorrow
+
+Would you like to continue working with the HMT project in some fashion? Bring any/all ideas to tomorrow's closing discussion!
