@@ -3,7 +3,7 @@ layout: page
 title: "Home page"
 ---
 
-**Thursday, July 9**: Our programmed summer experience ends today.  How should the HMT project move forward from here?
+**Friday, July 10**: Our programmed summer experience ends today.  How should the HMT project move forward from here?
 
 
 ## Questions
