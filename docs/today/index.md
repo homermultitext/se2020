@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home page"
+title: "Beyond this week"
 ---
 
 **Friday, July 10**: Our programmed summer experience ends today.  How should the HMT project move forward from here?
