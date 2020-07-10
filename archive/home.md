@@ -10,6 +10,8 @@ What we've already done:  [archived in this web site's github repository](https:
 
 ## HMT project, Summer Experience 2020
 
+
+
 - [team assignments](./teams/)
 - [references for participants](./references/)
 
